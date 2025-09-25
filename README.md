@@ -12,8 +12,9 @@ This repository contains three different approaches to searching elements inside
 - Binary Search is applied to find the target element.  
 - Time Complexity: **O(log n)** after sorting.  
 - Sorting adds an additional **O(n log n)** step.
+- 
 
-<img width="327" height="154" alt="image" src="https://github.com/user-attachments/assets/10f9030c-f128-4e17-a82d-a8c6c61a471e" />
+<img width="1000" height="471" alt="image" src="https://github.com/user-attachments/assets/9ee14ac0-0560-4451-ac23-80cd74db931e" />
 
 
 ### Algorithm  
